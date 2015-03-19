@@ -15,19 +15,20 @@ giWeather is a Wordpress widget that shows the weather forecast with a clean, cl
 
 Features:
 
-  * Multiple weather forecast source: OpenWeatherMap (Worldwide), Meteo Aeronautica Militare (only Italy);
-  * Many iconset (from near reality to flat icon): Iconvault Forecast (font), Meteocons (font/img) dark and light, gk4 (img), MeteoAM (img, external), OpenWeatherMap (img, external), Yahoo (img, external), Google (img, external);
-  * Deferred load of module in order to speed up website loading;
-  * Data cache for faster loading and reduce the demands on the forecast source;
-  * Fully responsive - will adapt to any device;
-  * Advanced touch / swipe support built-in;
-  * Wind icons with intensity and direction;
-  * Possibility to choose the time horizon of the forecast;
+  * Multiple weather forecast source: **OpenWeatherMap** (Worldwide), **Meteo Aeronautica Militare** (only Italy);
+  * **Many iconset** (from near reality to flat icon): Iconvault Forecast (font), Meteocons (font/img) dark and light, gk4 (img), MeteoAM (img, external), OpenWeatherMap (img, external), Yahoo (img, external), Google (img, external);
+  * **Deferred load** of module in order to speed up website loading;
+  * **Data cache** for faster loading and reduce the demands on the forecast source;
+  * **Fully responsive** - will adapt to any device;
+  * **Advanced touch / swipe** support built-in;
+  * **Wind icons** with intensity and direction;
+  * Possibility to choose the **time horizon of the forecast**;
   * Possibility to show or hide the detail sections of the module: Locality, Date, Descriptive weather, Humidity , Pressure , Wind, Thumbnails Forecasts;
-  * Multilanguage forecast descriptive text support (OpenWeatherMap): English, Russian, Italian, Spanish, Ukrainian, German, Portuguese, Romanian, Polish, Finnish, Dutch, French, Bulgarian, Swedish, Chinese Traditional, Chinese Simplified, Turkish, Croatian, Catalan;
-  * Browser support: Firefox, Chrome, Safari, iOS, Android, IE.
+  * **Multilanguage forecast descriptive text** support (OpenWeatherMap): English, Russian, Italian, Spanish, Ukrainian, German, Portuguese, Romanian, Polish, Finnish, Dutch, French, Bulgarian, Swedish, Chinese Traditional, Chinese Simplified, Turkish, Croatian, Catalan;
+  * Browser support: **Firefox, Chrome, Safari, iOS, Android, IE**.
   * Highly customizable with CSS;
 
+For more information visit the giWeather home page at: http://giweather.gardainformatica.it/
 
 == Installation ==
 You can either install it automatically from the WordPress admin, or do it manually.
@@ -40,6 +41,8 @@ Install from WordPress admin:
    4. Click on **Appearance > Widgets** from the main navigation menu in your Dashboard;
    5. Add giWeather widgets from the Available Widgets section by dragging it to the Sidebar you want to customize;
    6. Configure the widget and save it. 
+   
+For more information visit the documentation page at: http://giweather.gardainformatica.it/documentation-wordpress
 
 OR
    
@@ -51,6 +54,7 @@ Install manually:
    4. Add giWeather widgets from the Available Widgets section by dragging it to the Sidebar you want to customize;
    5. Configure the widget and save it. 
 
+For more information visit the documentation page at: http://giweather.gardainformatica.it/documentation-wordpress
 
 == Frequently Asked Questions ==
 
@@ -61,6 +65,8 @@ Install manually:
 3. Click the result correpondig to your city;
 4. The ID is the last part of the url. Eg. If the url is http://openweathermap.org/city/3181554 then the corresponding ID is 3181554.
 
+For more information visit the documentation page at: http://giweather.gardainformatica.it/documentation-wordpress
+
 = How can I find a MeteoAM Locality Id of an Italian city? =
 
 1. Go to http://www.meteoam.it/meteoam/?regione=italia×pread=prev
@@ -68,11 +74,19 @@ Install manually:
 3. Click the result correpondig to your city;
 4. The ID is the last part of the url. Eg. If the url is http://www.meteoam.it/meteoam/?q=ta/previsione/91/BRESCIA then the corresponding ID is 91/BRESCIA.
 
+For more information visit the documentation page at: http://giweather.gardainformatica.it/documentation-wordpress
+
 = How can I place giWeather inside an article or page of Wordpress ? =
 
 You can use the plugin https://wordpress.org/plugins/amr-shortcode-any-widget/
 
+For more information visit the documentation page at: http://giweather.gardainformatica.it/documentation-wordpress
+
 == Screenshots ==
+
+1. Example of display of meteorological forecasts of temperatures and winds with giWeather. Forecast source: OpenWeatherMap, Icons: Google.
+2. Example of display of meteorological forecasts with giWeather. Forecast source: OpenWeatherMap, Icons: Yahoo and Gk4.
+3. Configuration options of giWeather widget (v1.1.0). More options to come.
 
 == Changelog ==
 
